@@ -1,0 +1,67 @@
+{
+  "registros": [
+    {
+      "name": "dth",
+      "dni": "12345678J",
+      "fecha": "1994-01-09",
+      "telefono": "612589645",
+      "id": 2
+    },
+    {
+      "name": "rafamor",
+      "dni": "78945612A",
+      "fecha": "2009-07-08",
+      "telefono": "658471235",
+      "id": 3
+    },
+    {
+      "name": "alejandro",
+      "dni": "45612589U",
+      "fecha": "2023-10-29",
+      "telefono": "658749362",
+      "id": 4
+    },
+    {
+      "name": "ejemplo",
+      "dni": "12345677A",
+      "fecha": "2023-10-31",
+      "telefono": "632251478",
+      "id": 5
+    },
+    {
+      "name": "qdefewfef12",
+      "dni": "47859612K",
+      "fecha": "2023-11-07",
+      "telefono": "659874123",
+      "id": 6
+    },
+    {
+      "name": "francisco",
+      "dni": "12345678J",
+      "fecha": "1994-01-09",
+      "telefono": "612589645",
+      "id": 7
+    },
+    {
+      "name": "hola",
+      "dni": "12345678J",
+      "fecha": "1994-01-09",
+      "telefono": "612589645",
+      "id": 8
+    },
+    {
+      "name": "hola",
+      "dni": "47859612K",
+      "fecha": "2023-11-07",
+      "telefono": "659874123",
+      "id": 9
+    },
+    {
+      "name": "adios",
+      "dni": "47859612K",
+      "fecha": "2023-11-07",
+      "telefono": "659874123",
+      "id": 10
+    }
+  ]
+}

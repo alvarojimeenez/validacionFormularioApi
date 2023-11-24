@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <form id="signup" class="form">
+          <h1>Registro</h1>
+          <div class="form-field">
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre" autocomplete="off">
+            <small></small>
+          </div>
+          <div class="form-field">
+            <label for="codigo">DNI:</label>
+            <input type="text" name="dni" id="dni" autocomplete="off">
+            <small></small>
+          </div>
+          <div class="form-field">
+            <label for="fecha">Año nacimiento</label>
+            <input type="date" name="fecha" id="fecha" autocomplete="off">
+            <small></small>
+          </div>
+          <div class="form-field">
+            <label for="telefono">Teléfono</label>
+            <input type="number" name="telefono" id="telefono" autocomplete="off">
+            <small></small>
+          </div>
+          <div class="form-field">
+            <input type="submit" value="Registrarse">
+          </div>
+        </form>
+      </div>
+      <ul id="userList">
+
+      </ul>
+      <script src="js/app.js"></script>
+</body>
+</html>
